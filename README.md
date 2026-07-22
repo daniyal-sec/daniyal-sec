@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./banner.jpeg" alt="Daniyal Janjua Banner" width="100%">
+  <img src="./banner.jpeg" alt="Daniyal Janjua Banner" width="900">
 </p>
+
+<br>
 
 <h1 align="center">Hi 👋, I'm Daniyal Janjua</h1>
 
