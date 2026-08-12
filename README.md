@@ -18,11 +18,42 @@ I'm a **Computer Science graduate** with a strong interest in **Cybersecurity**,
 
 My academic background includes full-stack web development, where I built a **Fish Farming Guide** as my Final Year Project using **React.js, Node.js, and MySQL**.
 
-I'm now transitioning into cybersecurity and actively developing practical skills through **security tools, labs, Linux environments, networking exercises, and hands-on projects**.
+I'm now transitioning into cybersecurity and actively developing practical skills through **security tools, labs, Linux environments, networking exercises, Windows security monitoring, and hands-on projects**.
 
 ---
 
 ## 🛠️ Featured Cybersecurity Projects
+
+### 🛡️ AegisLog
+
+**AegisLog** is a Python-based **security monitoring and threat detection tool** designed to analyze authentication activity and identify suspicious behavior.
+
+The project has evolved from log parsing and detection into a real-time Windows security monitoring system with **event correlation, threat detection, reporting, and SQLite persistence**.
+
+#### 🔍 Key Features
+
+- 🪟 Real-time Windows Security Event Log monitoring
+- 🔐 Windows authentication event detection using Event IDs `4624` and `4625`
+- 🚨 Authentication brute-force detection
+- 🎯 Password spraying detection
+- 🔎 Username enumeration detection
+- 🔗 Authentication event correlation
+- 📊 Threat severity classification
+- 🌐 Source IP classification
+- 🧠 Successful-login-after-failures correlation
+- 💾 SQLite persistence for authentication events and security findings
+- 📄 Human-readable security investigation reports
+- ⚡ Real-time security alerts
+- 🧪 Automated test suite with **49 passing tests**
+- 🐍 Built entirely with Python
+
+**Technologies:** `Python` `Windows Event Log` `SQLite` `Pytest` `Git`
+
+> ⚠️ Developed for educational purposes and authorized security monitoring/testing only.
+
+### 🔗 [View AegisLog →](https://github.com/daniyal-sec/AegisLog)
+
+---
 
 ### ⚡ Nexorium Pulse
 
@@ -58,13 +89,15 @@ I built this project from scratch while learning Python networking, socket progr
 - 🐍 Python for Cybersecurity
 - 🔐 Cybersecurity Fundamentals
 - 🔎 Network Security
+- 🪟 Windows Security
+- 📊 Security Monitoring & Detection
 - 📂 Git & GitHub
 
 ---
 
 ## 💻 Development Experience
 
-My previous development experience gives me a programming foundation that I'm now applying to cybersecurity and security automation.
+My previous development experience gives me a programming foundation that I'm now applying to cybersecurity, security automation, and security tooling.
 
 - ⚛️ React.js
 - 🟢 Node.js
@@ -94,7 +127,9 @@ My previous development experience gives me a programming foundation that I'm no
 - 🌐 Computer Networking
 - 💻 Bash Scripting
 - 🐍 Python Security Automation
+- 🪟 Windows Security & Event Logs
 - 🔎 Network Security
+- 📊 Security Monitoring & Detection
 - 📂 Git & GitHub
 
 ---
@@ -109,6 +144,7 @@ My previous development experience gives me a programming foundation that I'm no
 - 🔹 TryHackMe Labs & Write-ups
 - 🔹 Web Application Security Labs
 - 🔹 Windows & Active Directory Labs
+- 🔹 SOC Monitoring & Detection Projects
 
 ---
 
@@ -120,6 +156,7 @@ My previous development experience gives me a programming foundation that I'm no
 - 🔍 Ethical Hacking
 - ⚙️ Security Automation
 - 🔵 SOC & Security Analysis
+- 🪟 Windows Security
 - ☁️ Cloud Security
 
 ---
@@ -128,6 +165,7 @@ My previous development experience gives me a programming foundation that I'm no
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniyaljanjua)
 - 💻 [GitHub](https://github.com/daniyal-sec)
+- 🛡️ [AegisLog](https://github.com/daniyal-sec/AegisLog)
 - ⚡ [Nexorium Pulse](https://github.com/daniyal-sec/Nexorium-Pulse)
 
 ---
