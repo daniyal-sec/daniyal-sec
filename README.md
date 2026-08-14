@@ -6,9 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm Daniyal Janjua</h1>
 
-<h3 align="center">
-Computer Science Graduate • Cybersecurity Enthusiast • Security Tool Builder
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0F172A&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Cybersecurity+Enthusiast;Security+Tool+Builder;Building+AegisLog+%7C+A+Threat+Detection+Platform" alt="Typing SVG">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=white">
@@ -17,8 +17,22 @@ Computer Science Graduate • Cybersecurity Enthusiast • Security Tool Builder
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/daniyaljanjua">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/daniyal-sec/AegisLog">
+    <img src="https://img.shields.io/badge/AegisLog-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/daniyal-sec/Nexorium-Pulse">
+    <img src="https://img.shields.io/badge/Nexorium%20Pulse-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=daniyal-sec&style=flat-square&color=0F172A&label=Profile+Views">
+</p>
+
+<p align="center">
   <a href="#-about-me">About</a> •
   <a href="#️-featured-cybersecurity-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
   <a href="#️-current-focus">Current Focus</a> •
   <a href="#-development-experience">Skills</a> •
   <a href="#-2026-goals">Goals</a> •
@@ -135,6 +149,25 @@ I built this project while learning Python networking, socket programming, concu
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daniyal-sec&show_icons=true&theme=default&hide_border=true&title_color=0F172A&icon_color=0F172A&text_color=333333">
+  <img height="165" src="https://streak-stats.demolab.com?user=daniyal-sec&hide_border=true&background=FFFFFF&stroke=0F172A&ring=0F172A&fire=DC2626&currStreakLabel=0F172A">
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyal-sec&layout=compact&hide_border=true&theme=default&title_color=0F172A&text_color=333333">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daniyal-sec&theme=flat&no-frame=true&row=1&column=6&margin-w=8">
+</p>
+
+> 📈 These are live, auto-updating widgets keyed to your GitHub username — no setup needed once the README is on GitHub.
+
+---
+
 ## 🛡️ Current Focus
 
 <p>
@@ -156,12 +189,7 @@ I built this project while learning Python networking, socket programming, concu
 My software development background gives me a strong programming foundation that I'm now applying to **cybersecurity, security automation, detection engineering, and security tooling**.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,js,mysql,git,github">
 </p>
 
 ---
@@ -241,5 +269,9 @@ My software development background gives me a strong programming foundation that
 > **"Stay curious. Keep building. Keep learning."**
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my cybersecurity journey.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=100&section=footer">
 
 </div>
