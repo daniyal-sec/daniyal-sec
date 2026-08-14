@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpeg" alt="Daniyal Janjua Cybersecurity Banner" width="900">
+  <img src="./banner.png" alt="Daniyal Janjua Cybersecurity Banner" width="900">
 </p>
 
 <br>
