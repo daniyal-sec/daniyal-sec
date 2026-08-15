@@ -1,0 +1,27 @@
+<svg width="900" height="14" viewBox="0 0 900 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="scanFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22C55E" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22C55E" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="0" y1="7" x2="900" y2="7" stroke="#334155" stroke-width="1"/>
+
+  <line x1="0" y1="4" x2="0" y2="10" stroke="#334155" stroke-width="1"/>
+  <line x1="450" y1="3" x2="450" y2="11" stroke="#334155" stroke-width="1"/>
+  <line x1="900" y1="4" x2="900" y2="10" stroke="#334155" stroke-width="1"/>
+
+  <g>
+    <rect x="-140" y="0" width="140" height="14" fill="url(#scanFade)"/>
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="1040 0"
+      dur="3.5s"
+      repeatCount="indefinite"/>
+  </g>
+</svg>
