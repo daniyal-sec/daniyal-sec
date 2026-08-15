@@ -39,7 +39,11 @@
   <a href="#-connect-with-me">Connect</a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=3">
+<p align="center">
+  <img src="./assets/radar-scan.svg" width="180" alt="Security scan animation">
+</p>
+
+<img width="100%" src="./assets/scan-divider.svg" alt="">
 
 ## 👨‍💻 About Me
 
@@ -51,7 +55,7 @@ I'm now focused on cybersecurity through **hands-on security tooling, Linux envi
 
 I enjoy learning by building — turning cybersecurity concepts into working tools and real projects.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=3">
+<img width="100%" src="./assets/scan-divider.svg" alt="">
 
 ## 🛡️ Featured Cybersecurity Projects
 
@@ -155,7 +159,7 @@ I built this project while learning Python networking, socket programming, concu
 
 > ⚠️ Developed for educational purposes and authorized security testing only.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=3">
+<img width="100%" src="./assets/scan-divider.svg" alt="">
 
 ## 📊 GitHub Activity
 
@@ -171,7 +175,7 @@ I built this project while learning Python networking, socket programming, concu
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=3">
+<img width="100%" src="./assets/scan-divider.svg" alt="">
 
 ## 🛡️ Current Focus
 
@@ -197,7 +201,7 @@ My software development background gives me a strong programming foundation that
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,js,mysql,git,github&theme=dark">
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=3">
+<img width="100%" src="./assets/scan-divider.svg" alt="">
 
 ## 🎯 2026 Goals
 
@@ -256,7 +260,7 @@ My software development background gives me a strong programming foundation that
   <img src="https://img.shields.io/badge/Cloud%20Security-1F2937?style=flat-square">
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=3">
+<img width="100%" src="./assets/scan-divider.svg" alt="">
 
 ## 📫 Connect With Me
 
