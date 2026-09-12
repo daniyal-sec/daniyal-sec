@@ -7,11 +7,11 @@
 <h1 align="center">Hi 👋, I'm Daniyal Janjua</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B93A8&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Cybersecurity+Enthusiast;Security+Tool+Builder;Building+AegisLog+%7C+A+Threat+Detection+Platform" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B93A8&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Cybersecurity+Enthusiast;Security+Tool+Builder;SOC+%26+Blue+Team+%7C+Exploring+Red+Team" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-1F2937?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%E2%86%92%20Red%20Team-1F2937?style=for-the-badge&logo=hackthebox&logoColor=white">
   <img src="https://img.shields.io/badge/Building-Security%20Tools-16A34A?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Status-Open%20to%20SOC%20%2F%20Entry--Level%20Roles-C2410C?style=for-the-badge">
 </p>
@@ -22,6 +22,9 @@
   </a>
   <a href="https://github.com/daniyal-sec/AegisLog">
     <img src="https://img.shields.io/badge/AegisLog-1F2937?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/daniyal-sec/Nexorium-Cipher">
+    <img src="https://img.shields.io/badge/Nexorium%20Cipher-1F2937?style=flat-square&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/daniyal-sec/Nexorium-Pulse">
     <img src="https://img.shields.io/badge/Nexorium%20Pulse-1F2937?style=flat-square&logo=github&logoColor=white">
@@ -47,17 +50,69 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science graduate** building my career around **Cybersecurity, Linux, Network Security, and Security Monitoring**.
+I'm a **Computer Science graduate** building a career in **Cybersecurity**, with a practical foundation in **SOC / Blue Team monitoring, security tooling, and detection engineering**.
 
-My academic background includes full-stack web development, where I built a **Fish Farming Guide** as my Final Year Project using **React.js, Node.js, and MySQL**.
+I learn by building. I design and ship **Python-based security tools** — from authentication threat detection to explainable static malware analysis — and run **hands-on SOC labs** using **Wazuh, Linux, and Windows security monitoring**.
 
-I'm now focused on cybersecurity through **hands-on security tooling, Linux environments, networking, Windows security monitoring, detection engineering, and practical security labs**.
+My current foundation is **Blue Team / defensive security**: SIEM monitoring, log analysis, detection engineering, and network security. I'm now expanding that foundation toward **offensive security and Red Team fundamentals**, working toward becoming a well-rounded practitioner who understands both defense and attack.
 
-I enjoy learning by building — turning cybersecurity concepts into working tools and real projects.
+My academic background includes full-stack web development — I built a **Fish Farming Guide** aquaculture management platform as my Final Year Project using **React.js, Node.js, and MySQL** — which gave me the programming foundation that now powers my security tooling.
 
 <img width="100%" src="./assets/scan-divider.svg" alt="">
 
 ## 🛡️ Featured Cybersecurity Projects
+
+### 🔐 Nexorium-Cipher — Explainable Static Threat & Malware Analysis
+
+**Nexorium-Cipher** is a Python-based, multi-platform **static threat and malware analysis toolkit** built around one idea: don't just say "malicious" or "safe" — explain the finding.
+
+Give Cipher an unknown file and it works out **what the file is, what it contains, what it may be doing, what evidence was found, and why that evidence matters** — presented as structured, explainable findings rather than a bare verdict.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=F59E0B&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=%24+python+-m+cipher;%5B%2B%5D+Analyzing+sample.html+...;%5B%2B%5D+Hash+verified+%7C+Format%3A+MATCH+(HTML);%5B%21%5D+Finding%3A+Obfuscation+%2B+Dynamic+Execution+%7C+Severity%3A+HIGH+%7C+Confidence%3A+HIGH" alt="Nexorium Cipher terminal animation">
+</p>
+
+<table>
+<tr><td valign="top">
+
+**Foundation & Static Analysis**
+- 🔑 MD5 / SHA-1 / SHA-256 hashing
+- 🧾 File metadata & magic-byte format ID
+- 🔍 MATCH / MISMATCH / UNKNOWN classification
+- 🌐 URL, IPv4 & domain extraction
+- 📝 HTML form & password/input analysis
+- 🧩 JavaScript network & storage API analysis
+- 🕵️ Obfuscation & encoded-string detection
+
+</td><td valign="top">
+
+**Behavioral Correlation**
+- 🔗 Evidence correlation across findings
+- 🧠 Composite, deduplicated findings
+- 📊 Severity (impact) vs. Confidence (evidence strength)
+- 📜 Structured Category → Evidence → Explanation output
+- 🗺️ Roadmap: APK, PE, ELF, Archive & web analyzers
+- ⚖️ MIT licensed, explainable-by-design
+
+</td></tr>
+</table>
+
+**✅ Phase 1: Foundation · ✅ Phase 2: Static Content Analysis · ✅ Phase 3: Behavioral Correlation**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Static%20Analysis-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Threat%20%26%20Malware%20Analysis-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Explainable%20Findings-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/MIT%20License-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=white">
+</p>
+
+### 🔗 [View Nexorium-Cipher →](https://github.com/daniyal-sec/Nexorium-Cipher)
+
+> ⚠️ Developed for educational purposes and authorized security analysis only. Findings are evidence-based observations, not definitive malware verdicts.
+
+---
 
 ### 🛡️ AegisLog — Security Monitoring & Threat Detection
 
@@ -159,6 +214,53 @@ I built this project while learning Python networking, socket programming, concu
 
 > ⚠️ Developed for educational purposes and authorized security testing only.
 
+---
+
+### 🖥️ Wazuh SOC Home Lab — Hands-On SIEM & Blue Team Practice
+
+**Wazuh SOC Home Lab** is a practical home-lab environment for hands-on **SIEM monitoring, endpoint security, and SOC-style investigation** — the core of my current Blue Team foundation.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=A78BFA&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=%24+wazuh-agent+status;%5B%2B%5D+Agent+connected%3A+WIN10-ENDPOINT;%5B%21%5D+ALERT%3A+Event+4625+-+Failed+logon+(NTLM);%5B%2B%5D+Rule+matched+%7C+Investigation%3A+logged" alt="Wazuh SOC Home Lab terminal animation">
+</p>
+
+<table>
+<tr><td valign="top">
+
+**Monitoring & SIEM**
+- 🐧 Wazuh Manager, Indexer & Dashboard on Ubuntu Server
+- 🪟 Windows 10 endpoint with Wazuh Agent
+- 📡 Centralized security event collection
+- 🔎 Windows Event Log monitoring (logon activity)
+- 🚨 Real-time alerting on suspicious authentication
+
+</td><td valign="top">
+
+**Investigation & Testing**
+- 🕵️ Investigated Event ID 4624 (successful logon) & 4625 (failed logon)
+- 🐉 Kali Linux VM for authorized attack simulation
+- 🔓 Controlled SMB authentication test mapped to MITRE ATT&CK
+- 📄 Documented investigation write-ups
+- 🛡️ SOC-style monitoring & Blue Team practice workflow
+
+</td></tr>
+</table>
+
+**✅ Completed SOC Home Lab — SIEM monitoring, endpoint telemetry, alert investigation, and controlled attack simulation.**
+
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/SIEM%20%2F%20XDR-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-1F2937?style=flat-square&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows%2010-1F2937?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali%20Linux-1F2937?style=flat-square&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Blue%20Team-1F2937?style=flat-square">
+</p>
+
+*📄 Investigation write-ups documented as part of ongoing SOC practice.*
+
+> ⚠️ Built as a personal home lab on self-owned systems for education and Blue Team skills practice only.
+
 <img width="100%" src="./assets/scan-divider.svg" alt="">
 
 ## 📊 GitHub Activity
@@ -181,13 +283,15 @@ I built this project while learning Python networking, socket programming, concu
 
 <p>
   <img src="https://img.shields.io/badge/Linux%20%26%20Bash-1F2937?style=flat-square&logo=gnubash&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/Computer%20Networking-1F2937?style=flat-square&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Python%20for%20Cybersecurity-1F2937?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-1F2937?style=flat-square&logo=shieldsdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer%20Networking-1F2937?style=flat-square&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Network%20Security-1F2937?style=flat-square">
   <img src="https://img.shields.io/badge/Windows%20Security-1F2937?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Security%20Monitoring%20%26%20Detection-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Security%20Monitoring%20%26%20SIEM-1F2937?style=flat-square">
   <img src="https://img.shields.io/badge/Detection%20Engineering-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Threat%20%26%20Malware%20Analysis-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Offensive%20Security%20Fundamentals-1F2937?style=flat-square">
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-1F2937?style=flat-square&logo=github&logoColor=white">
 </p>
 
@@ -195,7 +299,7 @@ I built this project while learning Python networking, socket programming, concu
 
 ## 💻 Development Experience
 
-My software development background gives me a strong programming foundation that I'm now applying to **cybersecurity, security automation, detection engineering, and security tooling**.
+My software-development background — full-stack web development with **React, Node.js, JavaScript, and MySQL** — gave me a strong programming foundation. I now apply that foundation to **cybersecurity**: security automation, detection engineering, static analysis, and building security tooling in Python. Development remains a supporting strength; cybersecurity is my primary direction.
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,js,mysql,git,github&theme=dark">
@@ -205,44 +309,48 @@ My software development background gives me a strong programming foundation that
 
 ## 🎯 2026 Goals
 
-- ✅ Build and release practical Python security tools
-- ✅ Build a cross-platform security monitoring platform
+- ✅ Built and publicly released AegisLog — a cross-platform authentication threat-detection platform
+- ✅ Built Nexorium Pulse — a multithreaded Python TCP port scanner
+- ✅ Completed Nexorium-Cipher Phases 1–3 (foundation, static analysis, behavioral correlation)
+- ✅ Built a practical Wazuh SOC Home Lab — SIEM monitoring, endpoint investigation, controlled attack simulation
+- ✅ Built a working, hands-on cybersecurity portfolio
 - 🎯 Strengthen Linux & Bash skills
-- 🎯 Complete TryHackMe learning paths
 - 🎯 Learn Windows & Active Directory security
 - 🎯 Practice Web Application Security
-- 🎯 Build a strong cybersecurity portfolio
-- 🎯 Develop SOC and security analysis skills
-- 🎯 Learn detection engineering
+- 🎯 Deepen network security & detection-engineering skills
+- 🎯 Develop SOC analysis & threat-hunting skills
+- 🎯 Expand Nexorium-Cipher toward APK, PE, ELF & archive analysis
+- 🎯 Build foundational Red Team / offensive-security skills
+- 🎯 Complete TryHackMe learning paths
 - 🎯 Secure an Entry-Level Cybersecurity / SOC Analyst role
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐧 Linux Administration
-- 🌐 Computer Networking
-- 💻 Bash Scripting
-- 🐍 Python Security Automation
-- 🪟 Windows Security & Event Logs
-- 🔎 Network Security
-- 📊 Security Monitoring & Detection
-- 🧠 Detection Engineering
-- 📂 Git & GitHub
+- 🐧 Linux administration
+- 🪟 Windows security & Active Directory fundamentals
+- 🌐 Network security & traffic analysis
+- 🧠 Threat hunting
+- 🦠 Malware & static analysis
+- 🕸️ Web application security
+- 🎯 Offensive security fundamentals (Red Team)
+- 🐍 Python security automation
 
 ---
 
-## 🚀 Upcoming Projects & Labs
+## 🚀 Next Projects & Labs
 
-- 🔹 Python Security Tools
-- 🔹 Network Security Tools
-- 🔹 Linux & Bash Projects
-- 🔹 Nmap Labs
-- 🔹 Wireshark Traffic Analysis
-- 🔹 TryHackMe Labs & Write-ups
-- 🔹 Web Application Security Labs
-- 🔹 Windows & Active Directory Labs
-- 🔹 SOC Monitoring & Detection Projects
+- 🔹 Nexorium-Cipher: APK / Android analysis
+- 🔹 Nexorium-Cipher: PE / Windows analysis
+- 🔹 Nexorium-Cipher: ELF / Linux analysis
+- 🔹 Nexorium-Cipher: archive analysis & risk scoring
+- 🔹 Wazuh Lab: custom detection rules & advanced correlation
+- 🔹 Wireshark traffic-analysis labs
+- 🔹 Windows & Active Directory labs
+- 🔹 Web Application Security labs
+- 🔹 Red Team / offensive-security fundamentals
+- 🔹 TryHackMe labs & write-ups
 
 ---
 
@@ -251,13 +359,9 @@ My software development background gives me a strong programming foundation that
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-1F2937?style=flat-square">
   <img src="https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/Network%20Security-1F2937?style=flat-square">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-1F2937?style=flat-square">
   <img src="https://img.shields.io/badge/Security%20Automation-1F2937?style=flat-square">
-  <img src="https://img.shields.io/badge/Detection%20Engineering-1F2937?style=flat-square">
-  <img src="https://img.shields.io/badge/SOC%20%26%20Security%20Analysis-1F2937?style=flat-square">
-  <img src="https://img.shields.io/badge/Windows%20Security-1F2937?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud%20Security-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-1F2937?style=flat-square">
+  <img src="https://img.shields.io/badge/Offensive%20Security%20%2F%20Red%20Team-1F2937?style=flat-square">
 </p>
 
 <img width="100%" src="./assets/scan-divider.svg" alt="">
@@ -267,7 +371,9 @@ My software development background gives me a strong programming foundation that
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniyaljanjua)
 - 💻 [GitHub](https://github.com/daniyal-sec)
 - 🛡️ [AegisLog](https://github.com/daniyal-sec/AegisLog)
+- 🔐 [Nexorium-Cipher](https://github.com/daniyal-sec/Nexorium-Cipher)
 - ⚡ [Nexorium Pulse](https://github.com/daniyal-sec/Nexorium-Pulse)
+- 🖥️ Wazuh SOC Home Lab — hands-on SIEM & Blue Team practice lab
 
 ---
 
